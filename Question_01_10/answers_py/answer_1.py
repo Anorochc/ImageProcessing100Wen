@@ -17,7 +17,7 @@ def BGR2RGB(img):
 
 
 # Read image
-img = cv2.imread("../imori.jpg")
+img = cv2.imread("D:\LFG.jpg")
 
 # BGR -> RGB
 img = BGR2RGB(img)
